@@ -1,0 +1,91 @@
+div.jumbotron {
+  text-align: center;
+  background: none;  
+}
+h1.welcomeFont {
+ font-weight: 300;
+line-height: 1.2;
+    font-size: 4rem;
+    }
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.skateboard3head
+{
+color:darkcyan;
+}
+.skateboard3paragraph {
+    color: darkcyan;
+}
+.sectionDark {
+   background-color: #cccccc;
+padding: 2rem;
+}
+.coolStuffWrapper {
+    margin-top: 20px;
+}
+button.coolStuffBtn {
+    background-color: red;
+    color:#ffffff;
+    display: block;
+    margin: auto;
+}
+@media screen and (min-width: 1300px) {
+    div img.imgLogo {
+        min-width: 100%;
+        min-height: 100%;
+        display: block;
+    }
+    div img.verticalSkateMedia {
+        min-width: 30px;
+        min-height: 100%;
+        display: block;
+    }
+}
+div img.verticalSkateMedia {
+    display: block;
+}
+div img.thrasherModal {
+    width: 100%;
+}
+h1.modal-title {
+    margin: auto;
+}
+.modalFormWrapper {
+    padding: 10px;
+}
+div img.imgCentre {
+    display: block;
+    margin: auto;
+}
+.btnCentre {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px; 
+    width: 56%;
+}
+.size {
+
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.fa {
+    margin: 10px;
+}
+.fa-facebook-square {
+    color: #3b5998;
+}
+.fa-google-plus-square {
+    color: #c32f10;
+}
+.fa-instagram {
+    color: #ffffff;
+}
+.socialWrapper {
+    margin: auto;
+}
+.fa-whatsapp {
+    color: #43d854;
+}
